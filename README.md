@@ -9,7 +9,7 @@
 
 ## 🌟 About Me
 
-I'm *Snigdha, a final-year Computer Science Engineering student who believes **technology should be creative, inclusive, and magical.*  
+I'm *Snigdha*, a final-year Computer Science Engineering student who believes **technology should be creative, inclusive, and magical.*  
 I blend *AI, design and imagination* to make impactful projects that look good and do good. 🌈
 
 - 🎓 *CGPA*: 8.8 / 10  
