@@ -1,5 +1,5 @@
 <h1 align="center">🩷 Hey, I'm Panuganti Snigdha 🩷</h1>
-<h3 align="center">✨ Aspiring Software Engineer | Artist ✨</h3>
+<h3 align="center">✨ Aspiring Software Engineer | Artist ✨</h3> 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Grandstander&size=24&duration=4000&pause=1000&color=%23FF007F&center=true&vCenter=true&width=700&lines=Combining+creativity+with+technology...;Designing+with+intuition%2C+developing+with+precision...;Turning+ideas+into+impactful+solutions+%F0%9F%8C%9F" />
